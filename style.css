@@ -1,48 +1,48 @@
 {
-    font-family: Helvetica, Arial, sans-serif;
-    max-width: 700px;
-    margin: auto;
+  font-family: Helvetica, Arial, sans-serif;
+  max-width: 700px;
+  margin: auto;
 
-  }
+}
 
 body {
-      min-width: 500px;
-      background-color: #e0eeee;
-      
-  }
-  .profileBody {
-    display: inline-block;
-    background-color: white;
-    margin-top: 6px;
-    margin-left: 55px;
-    width: 75%;
-    height: 590px;
-  }
-  h1{font-family:'Times New Roman', Times, serif;
-  color:black;
-  font weight: bold;
-  font-size:50px;
-  margin-left:30px;}
+    min-width: 500px;
+    background-color: #e0eeee;
+    
+}
+.profileBody {
+  display: inline-block;
+  background-color: white;
+  margin-top: 6px;
+  margin-left: 55px;
+  width: 75%;
+  height: 590px;
+}
+h1{font-family:'Times New Roman', Times, serif;
+color:black;
+font weight: bold;
+font-size:50px;
+margin-left:30px;}
 h2{font-family:'Times New Roman', Times, serif;
+color:black;
+font font-weight:italic;
+font-size:20px;
+margin-left:30px;}
+h3{font-family:'Times New Roman', Times, serif;
   color:black;
-  font font-weight:italic;
+  font style: no;
   font-size:20px;
-  margin-left:30px;}
-  h3{font-family:'Times New Roman', Times, serif;
+  margin-left:40px;}
+  h4{font-family: 'Times New Roman', Times, serif;
     color:black;
     font style: no;
     font-size:20px;
     margin-left:40px;}
-    h4{font-family: 'Times New Roman', Times, serif;
+    h5{font-family: 'Times New Roman', Times, serif;
       color:black;
       font style: no;
       font-size:20px;
       margin-left:40px;}
-      h5{font-family: 'Times New Roman', Times, serif;
-        color:black;
-        font style: no;
-        font-size:20px;
-        margin-left:40px;}
-        .box{ margin-left:20px;}
-        .box1{ margin-left:20px;}
+      .box{ margin-left:20px;}
+      .box1{ margin-left:20px;}
 a[href]{color:rgba(255, 0, 170, 0.938)}
